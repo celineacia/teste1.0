@@ -1,4 +1,5 @@
 ovos
+pao
 farinha 
 queijo
 fiambre
