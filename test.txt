@@ -2,4 +2,3 @@ ovos
 farinha 
 queijo
 fiambre
-sumo
